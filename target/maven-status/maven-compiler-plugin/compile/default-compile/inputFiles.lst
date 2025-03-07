@@ -1,0 +1,9 @@
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/OciMicroserviceApplication.java
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/controller/OrderController.java
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/controller/UserController.java
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/model/Order.java
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/model/User.java
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/repository/OrderRepository.java
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/repository/UserRepository.java
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/service/OrderService.java
+/Users/ivmg5/IdeaProjects/oci-microservice/src/main/java/com/example/ocimicroservice/service/UserService.java
